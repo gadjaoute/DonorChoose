@@ -1,5 +1,5 @@
 # DonorChoose
-Project funding prediction for Donors Choose
+Machine learning project funding prediction for Donors Choose
 DonorsChoose is a non-profit organization that facilitates donations
 to classroom projects for public schools within the US. This analysis
 utilized two datasets with records from 2015-2016, which can be
